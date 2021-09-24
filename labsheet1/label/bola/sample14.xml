@@ -1,0 +1,26 @@
+<annotation>
+	<folder>sample</folder>
+	<filename>sample14.jpg</filename>
+	<path>/home/rohsan/Documents/labsheet1/sample/sample14.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>bola</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>225</xmin>
+			<ymin>1</ymin>
+			<xmax>652</xmax>
+			<ymax>438</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,14 @@
+<annotation>
+	<folder>sample</folder>
+	<filename>sample0.jpg</filename>
+	<path>/home/rohsan/Documents/labsheet1/sample/sample0.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+</annotation>
